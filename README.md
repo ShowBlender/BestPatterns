@@ -8,5 +8,7 @@ Using Processing.org with P3D for layer management.
 Next Features I'm going to add are Convegence, Gradients, Grey Steps, Phase, DisplayID, add ControlP5 library for UI.
 
 Let me know of any features you'd like to have added.  
-joe@ShowBlender.com 
-http://www.ShowBlender.com/
+e-mail: joe@ShowBlender.com 
+twitter: @ShowBlender
+Site:  http://www.ShowBlender.com/
+Relevant Blog Post:  http://www.showblender.com/blog-1/2014/12/15/m
